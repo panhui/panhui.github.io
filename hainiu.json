@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "url": "https://v8.hainiu.fun",
+    "api_url": "https://v6.hainiu.fun",
+    "sub_url": "https://v6.hainiu.fun/s",
+    "buy_url": "https://v8.hainiu.fun/#/dashboard/subscribe",
+    "invite_url": "https://v8.hainiu.fun/#/dashboard/invite",
+    "invite_text": "邀请好友购买返利20%",
+    "discount_text": "限时年付5折，两年付3.3折",
+    "name":"海牛",
+    "name2": "注册免费试用24小时",
+    "title": "专注外网10年,4K秒开",
+    "message": "永久官网地址：hainiu3.github.io",
+    "message2": "邀请好友购买返利20%。"
+}
